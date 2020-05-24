@@ -1,0 +1,5 @@
+﻿  LinkQueue.h
+C:\Users\葛浩东\Desktop\数据结构\-Data-Structure-C-\栈和队列\队列\链式队列\链式队列\LinkQueue.h(80,17): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  MainLinkqueue.c
+C:\Users\葛浩东\Desktop\数据结构\-Data-Structure-C-\栈和队列\队列\链式队列\链式队列\LinkQueue.h(80,23): warning C4244: “return”: 从“double”转换到“int”，可能丢失数据
+  链式队列.vcxproj -> C:\Users\葛浩东\Desktop\数据结构\-Data-Structure-C-\栈和队列\队列\链式队列\Debug\链式队列.exe
